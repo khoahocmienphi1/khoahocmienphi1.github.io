@@ -40,3 +40,6 @@ Số CCCD (không bắt buộc, dành cho những ai muốn đăng ký thi lấy
 
 <input type="text" name="cccd" placeholder="Số CCCD/CMND">
 
+<input type="submit" name="submit" value="Đăng ký">
+
+</form>
