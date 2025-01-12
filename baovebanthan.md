@@ -1,7 +1,6 @@
 # Đăng ký khóa học
 
-## Khóa học: Bảo vệ bản thân và thông tin cá nhân trên môi trường số đầy sự
-thù địch
+## Khóa học: Bảo vệ bản thân và thông tin cá nhân trên môi trường số đầy sự thù địch
 
 Chúng tôi là sinh viên đại học, người đi làm, học sinh cấp 3, với mong muốn
 giúp người dân nâng cao nhận thức về những nguy hiểm trên Internet, phòng chống
@@ -25,10 +24,14 @@ Bạn có muốn nâng cao kiến thức bảo vệ bản thân một Internet t
 Hãy điền thông tin vào những ô sau!
 
 Họ và tên:
+
 <input type="text" name="name" placeholder="Họ và tên của bạn">
 Địa chỉ Email:
+
 <input type="text" name="email" placeholder="Địa chỉ email của bạn">
 Số điện thoại:
+
 <input type="text" name="phone" placeholder="Số điện thoại của bạn">
 Số CCCD (không bắt buộc, dành cho những ai muốn đăng ký thi lấy chứng chỉ)
+
 <input type="text" name="cccd" placeholder="Số CCCD/CMND">
