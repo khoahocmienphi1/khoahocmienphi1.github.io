@@ -24,20 +24,17 @@ Bạn có muốn nâng cao kiến thức bảo vệ bản thân một Internet t
 Hãy điền thông tin vào những ô sau!
 
 <form name="dangky" action="/" method="post">
-Họ và tên:
 
+Họ và tên:
 <input type="text" name="name" placeholder="Họ và tên của bạn">
 
 Địa chỉ Email:
-
 <input type="text" name="email" placeholder="Địa chỉ email của bạn">
 
 Số điện thoại:
-
 <input type="text" name="phone" placeholder="Số điện thoại của bạn">
 
 Số CCCD (không bắt buộc, dành cho những ai muốn đăng ký thi lấy chứng chỉ)
-
 <input type="text" name="cccd" placeholder="Số CCCD/CMND">
 
 <input type="submit" name="submit" value="Đăng ký">
