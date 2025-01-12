@@ -23,7 +23,7 @@ tuyển dụng.
 Bạn có muốn nâng cao kiến thức bảo vệ bản thân một Internet thù địch?
 Hãy điền thông tin vào những ô sau!
 
-<form name="dangky" action="/" method="post">
+<form name="dangky" action="/" method="get">
 
 Họ và tên:
 <input type="text" name="name" placeholder="Họ và tên của bạn">
@@ -37,10 +37,14 @@ Số điện thoại:
 <input type="text" name="phone" placeholder="Số điện thoại của bạn">
 <br>
 
-Số CCCD (không bắt buộc, dành cho những ai muốn đăng ký thi lấy chứng chỉ)
+Số CCCD/CMND:
 <input type="text" name="cccd" placeholder="Số CCCD/CMND">
 <br>
 
 <input type="submit" name="submit" value="Đăng ký">
 
 </form>
+
+Số CCCD/CMND là không bắt buộc, dành cho những ai muốn làm bài thi kiểm tra
+nhận thức về bảo vệ bản thân và thông tin cá nhân. Mỗi tháng chúng tôi tổ chức
+một kỳ thi, mỗi tuần sẽ có một kỳ thi thử trực tuyến. Cảm ơn bạn đã tham gia!
