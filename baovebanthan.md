@@ -27,15 +27,19 @@ Hãy điền thông tin vào những ô sau!
 
 Họ và tên:
 <input type="text" name="name" placeholder="Họ và tên của bạn">
+<br>
 
 Địa chỉ Email:
 <input type="text" name="email" placeholder="Địa chỉ email của bạn">
+<br>
 
 Số điện thoại:
 <input type="text" name="phone" placeholder="Số điện thoại của bạn">
+<br>
 
 Số CCCD (không bắt buộc, dành cho những ai muốn đăng ký thi lấy chứng chỉ)
 <input type="text" name="cccd" placeholder="Số CCCD/CMND">
+<br>
 
 <input type="submit" name="submit" value="Đăng ký">
 
